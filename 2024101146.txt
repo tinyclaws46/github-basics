@@ -1,0 +1,5 @@
+Name: Srinivas Kolla
+Branch: CSE
+Place of residence: Hyderabad
+Hobbies: Github
+Reason for joining IIIT: To learn github
