@@ -1,0 +1,5 @@
+Name: Krrish
+Branch: CSE
+Place of residence: India
+Hobbies: Music, Painting
+Reason for joining IIIT: Coding culture
