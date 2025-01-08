@@ -1,0 +1,5 @@
+Name: Dev Patel
+Branch: CSE
+Place of residence: Surat
+Hobbies: Listening to music, Playing Chess
+Reason for joining IIIT: Interest in Computer Sciences
